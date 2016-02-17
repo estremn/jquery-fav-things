@@ -1,0 +1,27 @@
+html {
+    font-family: sans-serif;
+    background: linear-gradient(to right, black, grey 15%, white 30%, white 70%, grey 85%, black);
+}
+
+body {
+    text-align: center;
+    margin-left: 25%;
+    margin-right: 25%;
+}
+
+h1 {
+    font-size: 250%;
+}
+
+h2 {
+    list-style: none;
+    color: azure;
+    background: radial-gradient(ellipse farthest-corner, darkred, black);
+    border-radius: 50px;
+    font-size: 200%;
+    margin-bottom: 1%;
+}
+
+p {
+    font-size: 150%;
+}
