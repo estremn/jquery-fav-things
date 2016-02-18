@@ -51,7 +51,7 @@ $(document).ready(function () {
     });
 
 
-    //Hide
+/*    //Hide
     $(function () {
         $('p').hide();
     });
@@ -60,7 +60,7 @@ $(document).ready(function () {
     $('#h2').on('click', function () {
         $('#1*').show();
     });
-
+*/
 
 
 });
